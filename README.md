@@ -48,8 +48,7 @@ Before using this repository, ensure you have:
     pip install -r requirements.txt
   ```
 
-
-4. **Experiments**
+__Experiments__
 
 This repository contains implementations of the following experiments:
 
