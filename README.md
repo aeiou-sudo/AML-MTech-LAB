@@ -48,7 +48,7 @@ Before using this repository, ensure you have:
     pip install -r requirements.txt
   ```
 
-__Experiments__
+## __Experiments__
 
 This repository contains implementations of the following experiments:
 
@@ -65,19 +65,19 @@ This repository contains implementations of the following experiments:
 11. 5-Fold Cross-Validation
 12. Boosting Ensemble Method
 
-__Datasets__
+## __Datasets__
 
 The repository includes sample datasets for testing the programs. These datasets are stored in the datasets/ directory. Users can replace these with custom datasets by updating the relevant code.
 
-__Contributing__
+## __Contributing__
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-__License__
+## __License__
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-__Contact__
+## __Contact__
 
 If you have any questions or suggestions, please feel free to contact me:
 
